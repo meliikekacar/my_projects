@@ -64,6 +64,8 @@ The application is simple and not suitable for complex real-world use
 AI-generated code may require manual review for advanced applications
 Customization options are limited without deeper coding knowledge
 Despite these limitations, AI-assisted development is highly effective for learning and prototyping.
+
 Conclusion
+
 This project demonstrates that AI-assisted coding tools such as Replit AI can significantly simplify the software development process. By using natural language prompts, it is possible to create, understand, and improve a simple mobile-style application. The assignment successfully shows how artificial intelligence can support beginners in software development.
-<img width="454" height="631" alt="image" src="https://github.com/user-attachments/assets/6e2272c7-c46f-49d3-94e3-3648cfef4711" />
+
